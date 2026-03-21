@@ -27,7 +27,7 @@ To write a Python program to get the employee and doctor details and display the
 ---
 
 ### PROGRAM
-```
+```python
 # REGNO:-212222060013
 # Name: AKSHAIYAN S
 class Parent:
